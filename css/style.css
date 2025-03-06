@@ -92,7 +92,7 @@
         }
 
         .hero {
-            background: url('./Img/skylines/SkyLines-KANSAS.png');
+            background: url('Img/skylines/SkyLines-KANSAS.png');
             background-size: cover;
             background-position: bottom;
 

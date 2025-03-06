@@ -79,7 +79,7 @@
             border: none;
             cursor: pointer;
             padding: 0.5rem;
-            z-index: 1001;
+            z-index: 1002;
         }
 
         .hamburger span {

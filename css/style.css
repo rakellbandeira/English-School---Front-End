@@ -92,7 +92,7 @@
         }
 
         .hero {
-            background: url('/Img/skylines/SkyLines-KANSAS.png');
+            background: url('Img/skylines/SkyLines-KANSAS.png');
             background-size: cover;
             background-position: bottom;
 
@@ -285,7 +285,7 @@ background: linear-gradient(45deg, rgba(106,3,59,1) 1%, rgba(205,28,24,1) 100%);
   }
 
         .courses {
-            background: url('/Img/skylines/SkyLines-NORTHCALI.png');
+            background: url('Img/skylines/SkyLines-NORTHCALI.png');
             background-size: cover;
             background-position: bottom;
             padding: 5rem 2rem;
@@ -361,7 +361,7 @@ background: linear-gradient(45deg, rgba(106,3,59,1) 1%, rgba(205,28,24,1) 100%);
         /* course cards */
         .courses-courses{
             
-                background: url('/Img/skylines/SkyLines-NORTHCALI.png');
+                background: url('Img/skylines/SkyLines-NORTHCALI.png');
                 background-size: cover;
                 background-position: bottom;
                 padding: 5rem 2rem;
@@ -406,15 +406,15 @@ background: linear-gradient(45deg, rgba(106,3,59,1) 1%, rgba(205,28,24,1) 100%);
         }
 
         #course-general{
-            background: url('/Img/courses/generalenglish.png');
+            background: url('Img/courses/generalenglish.png');
         }
 
         #course-conversation{
-            background: url('/Img/courses/conversation.png');
+            background: url('Img/courses/conversation.png');
         }
 
         #course-business{
-            background: url('/Img/courses/businessenglish.png');
+            background: url('Img/courses/businessenglish.png');
         }
 
         .courses-card-text{
@@ -689,7 +689,7 @@ background: linear-gradient(45deg, rgba(106,3,59,1) 1%, rgba(205,28,24,1) 100%);
             }
 
             .hero{
-                background: url('/Img/skylines/SkyLines-KANSAS-tablet.png');
+                background: url('Img/skylines/SkyLines-KANSAS-tablet.png');
                 background-size: cover;
                 background-position: bottom;
 
@@ -767,7 +767,7 @@ background: linear-gradient(45deg, rgba(106,3,59,1) 1%, rgba(205,28,24,1) 100%);
             }
 
             .hero {
-                background: url('/Img/skylines/SkyLines-KANSAS-mobile.png');
+                background: url('Img/skylines/SkyLines-KANSAS-mobile.png');
 
                 background-repeat: no-repeat;
                 background-position: bottom;
